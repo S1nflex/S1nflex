@@ -1,19 +1,8 @@
-<!-- S1nflex / profile README -->
-
-<sub><code>// a little about me</code></sub>
-
-# hey, i'm s1nflex.
-
-<img src="assets/subtitle.png" alt="C# / .NET developer · backend & infrastructure" width="520" />
-
-Several years into building software. Mostly backends, databases, infra and occasionally something unnecessarily low-level. I like code that's fast, clean and actually works.
-
----
-
-## tech stack `</>`
-
-<sub>01 / FAVORITE LANGUAGES — in order, just personal taste</sub>
-
+<!-- S1nflex / profile README --><sub><code>// a little about me</code></sub>
+hey, i'm s1nflex.
+<img src="assets/subtitle.png" alt="C# / .NET developer · backend & infrastructure" width="520" />Several years into building software. Mostly backends, databases, infra and occasionally something unnecessarily low-level. I like code that's fast, clean and actually works.
+tech stack </>
+<sub>01 / FAVORITE LANGUAGES - in order, just personal taste</sub>
 <table>
   <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /><br /><sub><b>C#</b></sub><br /><sub>01</sub></td>
@@ -26,11 +15,9 @@ Several years into building software. Mostly backends, databases, infra and occa
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" width="40" height="40" alt="Zig" /><br /><sub><b>Zig</b></sub><br /><sub>07</sub></td>
   </tr>
 </table>
-
-<sub>and sometimes Java · JavaScript · SQL — depends on the problem.</sub>
+<sub>and sometimes Java · JavaScript · SQL - depends on the problem.</sub>
 
 <sub>02 / BACKEND & DATA</sub>
-
 <table>
   <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" /><br /><sub><b>.NET</b></sub></td>
@@ -41,11 +28,9 @@ Several years into building software. Mostly backends, databases, infra and occa
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" /><br /><sub><b>Kafka</b></sub></td>
   </tr>
 </table>
-
 <sub>Also working with Entity Framework Core.</sub>
 
 <sub>03 / SYSTEMS & INFRASTRUCTURE</sub>
-
 <table>
   <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
@@ -55,20 +40,9 @@ Several years into building software. Mostly backends, databases, infra and occa
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" /><br /><sub><b>Grafana</b></sub></td>
     <td align="center" width="96"><img src="assets/riscv.png" width="40" height="40" alt="RISC-V" /><br /><sub><b>RISC-V</b></sub></td>
   </tr>
-</table>
-
----
-
-## things i've built
-
-### BinPack
-
+</table>things i've built
+BinPack
 Bit-level serialization for .NET. More data, fewer bytes. Because apparently normal serialization wasn't enough.
 
-<sub>`C#` · `.NET` · `serialization` · `bitwise stuff`</sub>
-
----
-
-<img src="assets/cat.png" alt="Small cream pixel cat" width="51" align="left" />
-
-<sub>writing code, chasing bugs, eating pizza. 🍕</sub>
+<sub>`C#` · .NET · serialization · bitwise stuff</sub>
+<img src="assets/cat.png" alt="Small cream pixel cat" width="51" align="left" /><sub>writing code, chasing bugs, eating pizza. 🍕</sub>
