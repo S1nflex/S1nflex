@@ -2,7 +2,7 @@
 
 <p><sub><code>// a little about me</code></sub></p>
 
-<h2>hey, i'm s1nflex.</h2>
+<h1>hey, i'm s1nflex.</h1>
 
 <p><img src="assets/subtitle.png" alt="C# / .NET developer · backend &amp; infrastructure" width="470"></p>
 
